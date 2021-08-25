@@ -11,3 +11,6 @@ temp/
 .DS_Store
 *.pyc
 *.zip
+geckodriver.log
+data/
+geckodriver.log
